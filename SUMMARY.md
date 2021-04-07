@@ -2,5 +2,3 @@
 
 * [Litepaper](README.md)
 
-## Information
-
