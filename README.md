@@ -105,7 +105,7 @@ July
 
 It's important to remember that $100x started out as a meme coin with 0 utility planned. It is from the continued support of the community that we are going to develop beyond this level. At the same time there are the risks of adoption that come with any DeFi project. The team is mitigating those risks by focusing on values of transparency and sustainability when making decisions for all holders of $100x. 
 
-Hop in, we're going places 🧑‍🚀.
+Hop in, we're going places 🧑‍🚀
 
 
 
