@@ -109,7 +109,7 @@ It's important to remember that $100x started out as a meme coin with 0 utility 
 
 With the leadership of Ken the Crypto and the community at large, $100x has the opportunity to be the best run DAO on the Binance Smart Chain. 
 
-Hop in, we're going places 🧑‍🚀
+Hop in, we're going places 🧑‍🚀.
 
 
 
