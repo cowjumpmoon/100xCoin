@@ -14,7 +14,7 @@ DYOR. This document is not financial advice.
 
 ## 100xCoin History 
 
-100xCoin originally founded and launched as $Elo by Ken the Crypto in March of 2021.  Ken, better known as Ken the Crypto, has been teaching his followers how to buy and sell crypto since the first bull run in 2017. After he made his six-figures in one year trading cryptocurrencies, he started several businesses including a successful digital marketing agency.
+100xCoin originally founded and launched as $Elo by _Ken the Crypto_  in March of 2021. Ken has been teaching his followers how to buy and sell crypto since the first bull run in 2017. After he made his six-figures in one year trading cryptocurrencies, he started several businesses including a successful digital marketing agency.
 
                                            
 
