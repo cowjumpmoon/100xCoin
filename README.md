@@ -4,7 +4,7 @@ description: Official Litepaper for the 100xCoin
 
 # Litepaper
 
-## Introduction to ~~Safemoon~~ $100x 😉 \(i'm going to change this you degens. Its a joke\) 
+## Introduction to the 100xCoin
 
 Getting to over $1 Billion USD in market cap is a fairly straightforward process. We are following in the paths of our ancestors similar to how Facebook overtook MySpace. While our peers are stopping at the moon, $100x is aiming straight at the sun.
 
@@ -65,7 +65,9 @@ This is why the $100x token burns 3.5% of transactions. In this way, holders are
 
 The liquidity pool function was taken from the successful project Safemoon. In order to create more liquidity in the PancakeSwap pairing, the automatic liquidity function taxes buyers and sellers 2% each transaction. 50% of this transaction is used to buy BNB. Then the other 50% of $100x is paired with the purchased BNB an added to the liquidity pool. Yes, it's just like Safemoon; but instead of a hard-fork like Safemars or Safewhatever, we have layered in tokenomics designed for growth of the $100x token and our community goals. 
 
-Which leads us to the most unique component of $100x, the 1.5% of funds reserved for marketing and development. At the time of this writing $100x is traded at roughly $1M in daily volume. This 1.5% represents $15k USD that we will use to market the growth of the token, and develop future platform features. Compare this to Safemoon who has to fundraise each time they want to release new features. Growth is capped and speed is limited. These funds increase our likelihood to go parabolic before the bull-run ends. _This wallet address will be shared with the community so that all transactions are transparent and clear._ 
+Which leads us to the most unique component of $100x, the 1.5% of funds reserved for marketing and development. At the time of this writing $100x is traded at roughly $1M in daily volume. This 1.5% represents $15k USD that we will use to market the growth of the token, and develop future platform features. We expect this to 10x on launch of the new token. 
+
+Compare this to Safemoon who has to fundraise each time they want to release new features. Growth is capped and speed is limited. These funds increase our likelihood to go parabolic before the bull-run ends, while also creating features for sustainable growth. _This wallet address will be shared with the community so that all transactions are transparent and clear._ 
 
 At 100x we view marketing, sales, and development in a flywheel fashion. Roughly 40% of wallet funds will be used for marketing to attract new users, 20% will be used for a sales support team \(Telegram for now\), and 40% will be used for development of feature sets to be released in the coming months. 
 
@@ -103,7 +105,9 @@ July
 
 ## Conclusion
 
-It's important to remember that $100x started out as a meme coin with 0 utility planned. It is from the continued support of the community that we are going to develop beyond this level. At the same time there are the risks of adoption that come with any DeFi project. The team is mitigating those risks by focusing on values of transparency and sustainability when making decisions for all holders of $100x. 
+It's important to remember that $100x started out as a meme coin with 0 utility planned. It is from the continued support of the community that we are going to develop beyond this level. At the same time there are the risks of adoption that come with any DeFi project. The team is mitigating those risks by focusing on values of transparency and sustainability when making decisions for all holders of $100x.
+
+With the leadership of Ken the Crypto and the community at large, $100x has the opportunity to be the best run DAO on the Binance Smart Chain. 
 
 Hop in, we're going places 🧑‍🚀
 
