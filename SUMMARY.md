@@ -4,5 +4,3 @@
 
 ## Information
 
-* [Untikjtled](information/untikjtled.md)
-
