@@ -71,19 +71,41 @@ At 100x we view marketing, sales, and development in a flywheel fashion. Roughly
 
 ![100x Sales &amp; Development Flywheel](.gitbook/assets/image%20%281%29.png)
 
-## Moat and Value Capture
+
 
 ## Near-Term Roadmap
 
-At this time the $100xCoin community is f
+At this time the $100xCoin community is focused on the key activities needed for hyper growth. A high-level roadmap is shown below, and may change as the community suggests directions:
+
+April \(After Launch\) 
+
+* Influencer campaigns
+* Strategic partnerships
+* Listing on Blockfolio, CMC, CoinGecko
+
+May 
+
+* Announce First Use Case
+* Celebrity Endorsements
+* Unique Channel Partners \(Clubhouse, New Outlets, etc.\)
+* List on First Exchange\(s\)
+
+June 
+
+* Lottery or Airdrop Features
+* Charity Partnerships 
+  * Foundation Announcements
+* Release Use Case Beta
+
+July
+
+* July?  Y'all can barely think past April 12 😜
 
 ## Conclusion
 
-It's important to remember that $100x started out as a meme coin with 0 utility planned. It is from the continued support of the community that we are going to develop beyond this level. At the same time there are the risks of adoption that come with any DeFi project. 
+It's important to remember that $100x started out as a meme coin with 0 utility planned. It is from the continued support of the community that we are going to develop beyond this level. At the same time there are the risks of adoption that come with any DeFi project. The team is mitigating those risks by focusing on values of transparency and sustainability when making decisions for all holders of $100x. 
 
-
-
-Publish
+Hop in, we're going places 🧑‍🚀.
 
 
 
