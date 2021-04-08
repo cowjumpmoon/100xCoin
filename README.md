@@ -85,7 +85,7 @@ May
 
 * Announce First Use Case
 * Celebrity Endorsements
-* Unique Channel Partners \(Clubhouse, New Outlets, etc.\)
+* Channel Partners \(Clubhouse, New Outlets, etc.\)
 * List on First Exchange\(s\)
 
 June
