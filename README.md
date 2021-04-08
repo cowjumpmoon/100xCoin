@@ -90,10 +90,10 @@ May
 
 June
 
-* Lottery or Airdrop Features
+* Release Use Case Beta
+* Airdrop Features 
 * Charity Partnerships 
   * Foundation Announcements
-* Release Use Case Beta
 
 July
 
