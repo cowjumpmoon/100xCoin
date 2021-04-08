@@ -109,5 +109,5 @@ Hop in, we're going places 🧑‍🚀!
 
 ### Footnote
 
-This roadmap is V1 and will grow alongside the community over the course of the year and lifetime of the project.
+This roadmap is V1 and will grow alongside the community over the course of the year and lifetime of the project. Let's launch!
 
