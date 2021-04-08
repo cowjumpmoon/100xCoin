@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Litepaper](README.md)
+* [Litepaper V1](README.md)
 

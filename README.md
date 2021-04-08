@@ -2,7 +2,7 @@
 description: Official Litepaper for the 100xCoin
 ---
 
-# Litepaper
+# Litepaper V1
 
 ## Introduction to the 100xCoin
 
