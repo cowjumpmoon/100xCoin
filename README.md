@@ -107,7 +107,7 @@ With the leadership of Ken the Crypto and the community at large, $100x has the 
 
 Hop in, we're going places 🧑‍🚀!
 
-#### Footnote
+### Footnote
 
-This roadmap is  V1 and will grow alongside the community over the course of the year and lifetime of the project.
+This roadmap is V1 and will grow alongside the community over the course of the year and lifetime of the project.
 
