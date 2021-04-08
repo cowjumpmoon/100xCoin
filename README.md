@@ -69,7 +69,7 @@ Compare this to Safemoon who has to fundraise each time they want to release new
 
 At 100x we view marketing, sales, and development in a flywheel fashion. Roughly 40% of wallet funds will be used for marketing to attract new users, 20% will be used for a sales support team \(Telegram for now\), and 40% will be used for development of feature sets to be released in the coming months.
 
-![100x Sales &amp; Development Flywheel](.gitbook/assets/image%20%281%29.png)
+![100x Growth Flywheel](.gitbook/assets/screen-shot-2021-04-07-at-8.11.47-pm.png)
 
 ## Near-Term Roadmap
 
@@ -85,7 +85,7 @@ May
 
 * Announce First Use Case
 * Celebrity Endorsements
-* Unique Channel Partners \(Clubhouse, New Outlets, etc.\)
+* Channel Partners \(Clubhouse, New Outlets, etc.\)
 * List on First Exchange\(s\)
 
 June
