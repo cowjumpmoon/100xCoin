@@ -1,5 +1,5 @@
 ---
-description: Official Litepaper for the 100xCoin
+description: Official V1 Litepaper for the 100xCoin
 ---
 
 # Litepaper V1
