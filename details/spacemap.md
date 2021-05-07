@@ -36,7 +36,7 @@ A summary of our technology roadmap is below.
 
 * [ ] Announce Use Case I - _**100xCollabos -**_ [NFT Staking, the first athlete and celebrity endorsed NFTs on the Binance Smart Chain](https://www.100xcoin.io/nfts)
 * [ ] Announce Use Case II - _**100xAltBase -**_ Mobile app dedicated to making the BSC accessible by purchasing 100x from Visa, MasterCard, Apple Pay, SWIFT, SEPA and more. No more "Which Pancake". We will put 100x in the hands of millions of users across the world. Think Robinhood for altcoins. 
-* [ ] Announce Use Case III - _**100xRocket-**_ ****Crypto Capital Launchpad. This bull run has created many new angel investors, including 100x Holders. Those who hold high amounts of 100xCoin \(1-5T\) will be able to participate in private pre-sales. Deals will then open to smaller tiers of 100x holders until pre-sales are closed. 
+* [ ] Announce Use Case III - _**100xRocket-**_ ****Crypto Capital Launchpad. This bull run has created many new angel investors, including 100x Holders. Those who hold high amounts of 100xCoin \(Tiered System\) will be able to participate in private pre-sales. Deals will then open to smaller tiers of 100x holders until pre-sales are closed. 
 * [ ] 100xLabs Releases \(%'s as of the time of this writing\):
   * [ ] _**100xCollabos V1 \(23% complete\)**_
   * [ ] _**100xAltbase Demo \(31% complete\)**_
