@@ -110,6 +110,7 @@ We believe that June is the month where the alt run will be picking up full stea
 * [ ] Premier League Sponsorship
 * [ ] Twitch Streamer Partnership
 * [ ] E-Sports Partnerships
+* [ ] Satisfying Object Merchandise 🍆😉
 * [ ] Brand Model Events \(Nascar, Motocross, BMX\)
 * [ ] Binance Alliance Call with CZ \(Goal\)
 
@@ -137,8 +138,6 @@ We believe that June is the month where the alt run will be picking up full stea
   * [ ] Instagram 10
   * [ ] Twitter 10
 * [ ] Asset Manager
-
-_\*\*\*\*_
 
 ## Q3 2021 - Running With The Bulls 🐄
 
