@@ -104,7 +104,7 @@ We believe that June is the month where the alt run will be picking up full stea
 **Marketing**
 
 * [ ] Video Documentary of Founder Ken the Crypto
-  * [ ] Planning for Netflix Special Deal in Q4
+  * [ ] Planning for Netflix Special Deal in 2022
 * [ ] Partnership with Wired, Buzzfeed, or Vice
 * [ ] Primetime MLB Media Placement
 * [ ] Premier League Sponsorship
