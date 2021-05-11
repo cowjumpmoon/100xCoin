@@ -6,6 +6,14 @@ description: >-
 
 # Roadmap
 
+## Quick Links
+
+Website: [https://100xcoin.io](https://100xcoin.io)
+
+Telegram: [https://t.me/ELOofficialchat](https://t.me/ELOofficialchat)
+
+Twitter: [https://twitter.com/100XCoin\_](https://twitter.com/100XCoin_)
+
 ## April 2021 - Lay the Foundation 🏗
 
 This month is filled with activities that create a solid base for our future growth plans.
