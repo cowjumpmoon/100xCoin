@@ -45,14 +45,12 @@ This combination of community members will provide 100x the needed peer group fo
 
 ## Tokenomics & Distribution
 
-The starting $100x token supply is 935,312,500,000,000 and is distributed across wallet holders with no reserve for founders or developers. All $100x can be bought or sold freely.
+The starting $100x token supply is 935,312,500,000,000 \(decreasing\) and is  distributed across wallet holders with no reserve for founders or developers. All $100x can be bought or sold freely. 
 
 The tokenomics of $100xCoin are:
 
-* 3.5% burn per transaction
-  * 2% automatic burn
-  * 1.5% reserved for manual burns. 
-* 2% automatic liquidity pool generation
+* 3% burn per transaction
+* 5.5% automatic liquidity pool generation
 * 1.5% marketing and development allocation
 
 These tokenomics were built from community advice after reviewing other successful projects this year. These specific features are tuned for hyper growth of the $100x token. Each benefit will be discussed in turn.
