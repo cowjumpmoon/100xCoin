@@ -8,7 +8,7 @@ description: Official V1 Litepaper for the 100xCoin
 
 Getting to over $1 Billion USD in market cap is a fairly straightforward process. We are following in the paths of our ancestors similar to how Facebook overtook MySpace. While our peers are stopping at the moon, $100x is aiming straight at the sun.
 
-$100x is a deflationary token built on the Binance Smart Chain. The coin features 7% transaction fees split between burn functions, automatic liquidity pool generation, and a development wallet. This paper will discuss the benefits of this system, as well as foreshadow coming developments for the platform.
+$100x is a deflationary token built on the Binance Smart Chain. The coin features 10% transaction fees split between burn functions, automatic liquidity pool generation, and a development wallet. This paper will discuss the benefits of this system, as well as foreshadow coming developments for the platform.
 
 DYOR. This document is not financial advice.
 
