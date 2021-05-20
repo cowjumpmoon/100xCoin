@@ -1,7 +1,7 @@
 ---
 description: >-
-  Where we're going, there are no roads. Here's our detailed plans to get to our
-  $7B mcap target. This is the first look at the 100x takeover plans.
+  Where we're going, there are no roads. All of our plans are delivered by the
+  community for the community.
 ---
 
 # Roadmap
