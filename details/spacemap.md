@@ -42,14 +42,15 @@ To experiment and iterate on feature sets quickly, we are building **100xLabs,**
 
 A summary of our technology roadmap is below. 
 
-* [ ] Announce Use Case I - _**100xCollabos -**_ [NFT Staking, the first athlete and celebrity endorsed NFTs on the Binance Smart Chain](https://www.100xcoin.io/nfts)
-* [ ] Announce Use Case II - _**100xAltBase -**_ Mobile app dedicated to making the BSC accessible by purchasing 100x from Visa, MasterCard, Apple Pay, SWIFT, SEPA and more. No more "Which Pancake". We will put 100x in the hands of millions of users across the world. Think Robinhood for altcoins. 
-* [ ] Announce Use Case III - _**100xRocket-**_ ****Crypto Capital Launchpad. This bull run has created many new angel investors, including 100x Holders. Those who hold high amounts of 100xCoin \(Tiered System\) will be able to participate in private pre-sales. Deals will then open to smaller tiers of 100x holders until pre-sales are closed. 
-* [ ] 100xLabs Releases \(%'s as of the time of this writing\):
-  * [ ] _**100xCollabos V1 \(23% complete\)**_
-  * [ ] _**100xAltbase Demo \(31% complete\)**_
-  * [ ] _**100xRocket First Launch \(27% complete\)**_
-    * [ ] The first project will either burn 100x tokens with a function in the smart contract, or add 100x and BNB to the 100x LP
+* [x] Announce Use Case I - _**100xCollabos -**_ [NFT Staking, the first athlete and celebrity endorsed NFTs on the Binance Smart Chain](https://www.100xcoin.io/nfts)
+* [x] Announce Use Case II - _**100xAltBase -**_ Mobile app dedicated to making the BSC accessible by purchasing 100x from Visa, MasterCard, Apple Pay, SWIFT, SEPA and more. No more "Which Pancake". We will put 100x in the hands of millions of users across the world. Think Robinhood for altcoins. 
+* [x] Announce Use Case III - _**100xRocket-**_ ****Crypto Capital Launchpad. This bull run has created many new angel investors, including 100x Holders. Those who hold high amounts of 100xCoin \(Tiered System\) will be able to participate in private pre-sales. Deals will then open to smaller tiers of 100x holders until pre-sales are closed. 
+* [x] 100xLabs Releases \(%'s as of the time of this writing\):
+
+  * [ ] _**100xCollabos V1 \(49% complete\)**_
+  * [x] _**100xAltbase Demo \(70% complete\)**_
+
+  _\*\*\*\*_
 
 All of our releases work in collaboration with each other. For example our mobile platform will introduce new buyers into the BSC. Whereas most early defi plays have to wait for many weeks to be listed in TrustWallet or on an Exchange, we will give early access to projects with extremely low marketcaps. Top moonshot founders will work with us to be listed on our mobile platform. We already have inquiries from several founders that have mooned projects this bull run. 
 
@@ -58,35 +59,30 @@ All of our releases work in collaboration with each other. For example our mobil
 * [ ] 10 AMA's with other projects in the BSC.
 * [x] Sponsor first professional sporting event. 
 * [ ] Merchandise launch.
-* [ ] Forbes, Bloomberg, TechCrunch Placements
-* [ ] Hackathon and Scholarship Sponsorships
-* [ ] Begin listing process for Kucoin or Bitmart
-* [ ] Cross 100,000 holder mark
-* [ ] Cross $300M MCAP to start the Summer Bull Run 
 
 **Key Community Hires**
 
 #### Tech
 
-* [ ] Head of Operations
+* [x] Head of Operations
 * [ ] Chief Technology Officer
-* [ ] UI UX Designer
-* [ ] Front End Engineer
-* [ ] Web3 Engineer
+* [x] UI UX Designer
+* [x] Front End Engineer
+* [x] Web3 Engineer
 * [ ] Solidity Developer
 
 #### Marketing 
 
-* [ ] Professional Full-Time Shilling Team - 5 People
-* [ ] Content Creators for the 100xCoin Blog
-* [ ] Social Media Ambassadors
-  * [ ] Tik Tok 3
-  * [ ] Instagram 3
-  * [ ] Twitter 3
-* [ ] Marketing Director 
-* [ ] Marketing Specialist
-* [ ] Content Creators
-* [ ] Community Manager
+* [x] Professional Full-Time Shilling Team - 5 People
+* [x] Content Creators for the 100xCoin Blog
+* [x] Social Media Ambassadors
+  * [x] Tik Tok 3
+  * [x] Instagram 3
+  * [x] Twitter 3
+* [x] Marketing Director 
+* [x] Marketing Specialist
+* [x] Content Creators
+* [x] Community Manager
 
 ## June 2021 - Explosive Growth 🥳
 
@@ -103,9 +99,10 @@ We believe that June is the month where the alt run will be picking up full stea
   * [ ] Social feature development
   * [ ] Whale wallet premium features
   * [ ] Push notifications to all users
-* [ ] _**100xRocket - 5 launches**_
-  * [ ] $5M raised in presale funds
-  * [ ] TVL of $20M
+* [x] _**100xRocket First Launch \(27% complete\)**_
+  * [ ] The first project will either burn 100x tokens with a function in the smart contract, or add 100x and BNB to the 100x LP
+* [ ] $5M raised in presale funds
+* [ ] TVL of $20M
 * [ ] Binance Listing
 * [ ] Website additional capacity to support full time content writers: blog, video, and real time chat. 
 
@@ -113,6 +110,11 @@ We believe that June is the month where the alt run will be picking up full stea
 
 * [ ] Video Documentary of Founder Ken the Crypto
   * [ ] Planning for Netflix Special Deal in 2022
+* [ ] Forbes, Bloomberg, TechCrunch Placements
+* [ ] Hackathon and Scholarship Sponsorships
+* [ ] Begin listing process for Kucoin or Bitmart
+* [ ] Cross 100,000 holder mark
+* [ ] Cross $300M MCAP to start the Summer Bull Run 
 * [ ] Partnership with Wired, Buzzfeed, or Vice
 * [ ] Primetime MLB Media Placement
 * [ ] Premier League Sponsorship
