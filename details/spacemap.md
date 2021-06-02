@@ -58,7 +58,7 @@ All of our releases work in collaboration with each other. For example our mobil
 
 * [ ] 10 AMA's with other projects in the BSC.
 * [x] Sponsor first professional sporting event. 
-* [ ] Merchandise launch.
+* [x] Merchandise launch.
 
 **Key Community Hires**
 
@@ -108,6 +108,7 @@ We believe that June is the month where the alt run will be picking up full stea
 
 **Marketing**
 
+* [ ] 10 AMA's
 * [ ] Video Documentary of Founder Ken the Crypto
   * [ ] Planning for Netflix Special Deal in 2022
 * [ ] Forbes, Bloomberg, TechCrunch Placements
@@ -122,7 +123,7 @@ We believe that June is the month where the alt run will be picking up full stea
 * [ ] E-Sports Partnerships
 * [ ] Satisfying Object Merchandise 🍆😉
 * [ ] Brand Model Events \(Nascar, Motocross, BMX\)
-* [ ] Binance Alliance Call with CZ \(Goal\)
+* [ ] Binance Alliance Call
 
 
 
