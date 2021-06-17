@@ -92,18 +92,14 @@ We believe that June is the month where the alt run will be picking up full stea
 
 **Tech**
 
-* [ ] _**100xCollabos - total sales $2.4M**_ 
-  * [ ] Signature series chainlink technology release
-  * [ ] Mark Cuban or other influencer NFT sale
 * [ ] _**100xAltbase - 30,000 downloads**_ 
   * [ ] Social feature development
   * [ ] Whale wallet premium features
   * [ ] Push notifications to all users
-* [x] _**100xRocket First Launch \(27% complete\)**_
-  * [ ] The first project will either burn 100x tokens with a function in the smart contract, or add 100x and BNB to the 100x LP
-* [ ] $5M raised in presale funds
-* [ ] TVL of $20M
-* [ ] Binance Listing
+* [ ] _**100xRocket Development - Full read here**_ 
+  * [ ] $5M raised in presale funds
+  * [ ] TVL of $20M
+* [ ] Three exchange listings. 
 * [ ] Website additional capacity to support full time content writers: blog, video, and real time chat. 
 
 **Marketing**
@@ -156,7 +152,7 @@ This quarter 100xLabs will be in full force cranking out new feature sets for ou
 
 **Tech**
 
-* [ ] _**100xCollabos - total sales $32M**_ 
+* [ ] _**100xCollabos - total sales $2.4M**_ 
   * [ ] Chainlink NFT creation automation
   * [ ] Specialty Series for A-List Celebrities
   * [ ] In game NFT partnership

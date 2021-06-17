@@ -8,5 +8,5 @@
 
 ## 100xLabs
 
-* [Coming Soon](100xlabs/coming-soon.md)
+* [100xRocket](100xlabs/coming-soon.md)
 
