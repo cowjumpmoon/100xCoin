@@ -148,7 +148,7 @@ We believe that June is the month where the alt run will be picking up full stea
 
 ## Q3 2021 - Running With The Bulls 🐄
 
-This quarter 100xLabs will be in full force cranking out new feature sets for our various technologies. Marketing will mix guerilla forces with professional skillsets to dominant traffic to the BSC. 
+This quarter 100xLabs will be in full force cranking out new feature sets for our various technologies. Marketing will mix guerilla forces with professional skillsets to dominate traffic to the BSC. 
 
 **Tech**
 
