@@ -10,7 +10,7 @@ description: Detailed roadmap for the 100xRocket Project
 
 There are several other launchpads in DeFi, most notably DXSale. But while these other sites use their launchpads to launch client _tokens_, 100xRocket's generator can be used interactively by anyone to create their own _launchpad._
 
-This will lower the cost of creating a launchpad by somewhere near 90%. It also means that our volume is not limited by the number of tokens can serve on our own. We would be a software powering the launchpads of our clients.
+This will lower the cost of creating a launchpad by somewhere near 90%. It also means that our volume is not limited by the number of tokens we can serve on our own. We would be a software powering the launchpads of our clients.
 
 Any coin founder will be able to sign up and create a launchpad for an up-front and monthly fee. Additionally, we will collect a portion of the presales of all launched tokens in our ecosystem. Our site will have self-checkout and be easy to use. So instead of approaching software engineers to create a unique launchpad, anyone will be able to get a launchpad up and running with a few clicks. 
 
