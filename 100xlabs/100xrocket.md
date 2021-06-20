@@ -6,7 +6,7 @@ description: Detailed roadmap for the 100xRocket Project
 
 ## Overview
 
-100xRocket allows client to generate launchpads at the click of a button.
+100xRocket allows clients to generate launchpads at the click of a button.
 
 There are several other launchpads in DeFi, most notably DXSale. But while these other sites use their launchpads to launch client _tokens_, 100xRocket's generator can be used interactively by anyone to create their own _launchpad._
 
