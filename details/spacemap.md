@@ -56,7 +56,7 @@ All of our releases work in collaboration with each other. For example our mobil
 
 **Marketing**
 
-* [ ] 10 AMA's with other projects in the BSC.
+* [x] 10 AMA's with other projects in the BSC.
 * [x] Sponsor first professional sporting event. 
 * [x] Merchandise launch.
 
@@ -69,7 +69,7 @@ All of our releases work in collaboration with each other. For example our mobil
 * [x] UI UX Designer
 * [x] Front End Engineer
 * [x] Web3 Engineer
-* [ ] Solidity Developer
+* [x] Solidity Developer
 
 #### Marketing 
 
@@ -92,59 +92,38 @@ We believe that June is the month where the alt run will be picking up full stea
 
 **Tech**
 
-* [ ] _**100xAltbase - 30,000 downloads**_ 
-  * [ ] Social feature development
+* [x] _**100xAltbase - 30,000 downloads**_ 
+  * [x] Social feature development
   * [ ] Whale wallet premium features
-  * [ ] Push notifications to all users
-* [ ] _**100xRocket Development - Full read here**_ 
-  * [ ] $5M raised in presale funds
-  * [ ] TVL of $20M
-* [ ] Three exchange listings. 
-* [ ] Website additional capacity to support full time content writers: blog, video, and real time chat. 
+  * [x] Push notifications to all users
+* [x] _**100xRocket Development - Full read here**_ 
+* [x] Three exchange listings. 
+* [x] Website additional capacity to support full time content writers: blog, video, and real time chat. 
 
 **Marketing**
 
-* [ ] 10 AMA's
-* [ ] Video Documentary of Founder Ken the Crypto
+* [x] 10 AMA's
+* [x] Video Documentary of Founder Ken the Crypto
   * [ ] Planning for Netflix Special Deal in 2022
-* [ ] Forbes, Bloomberg, TechCrunch Placements
-* [ ] Hackathon and Scholarship Sponsorships
-* [ ] Begin listing process for Kucoin or Bitmart
-* [ ] Cross 100,000 holder mark
-* [ ] Cross $300M MCAP to start the Summer Bull Run 
-* [ ] Partnership with Wired, Buzzfeed, or Vice
-* [ ] Primetime MLB Media Placement
-* [ ] Premier League Sponsorship
-* [ ] Twitch Streamer Partnership
-* [ ] E-Sports Partnerships
 * [ ] Satisfying Object Merchandise 🍆😉
-* [ ] Brand Model Events \(Nascar, Motocross, BMX\)
-* [ ] Binance Alliance Call
-
-
 
 **Key Community Hires**
 
 #### Tech
 
-* [ ] Head of Product
-* [ ] Operations Manager
+* [x] Head of Product
+* [x] Operations Manager
 * [ ] Chief Revenue Officer
-* [ ] Professional Sports Agent
+* [x] Professional Sports Agent
 * [ ] UI UX Designer
-* [ ] Front End Engineer
-* [ ] Web3 Engineer
-* [ ] Solidity Developer
+* [x] Front End Engineer
+* [x] Web3 Engineer
+* [x] Solidity Developer
 
 #### Marketing 
 
-* [ ] Head of Media
-* [ ] Paid Media Specialist x 2 
-* [ ] Social Media Ambassadors
-  * [ ] Tik Tok 10
-  * [ ] Instagram 10
-  * [ ] Twitter 10
-* [ ] Asset Manager
+* [x] Head of Media
+* [x] Asset Manager
 
 ## Q3 2021 - Running With The Bulls 🐄
 
